@@ -1,0 +1,15 @@
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\centralities\api\package-info.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\package-info.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\MSTResult.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\HITSResults.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\FloydWarshallResult.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\centralities\api\NetworkStatsResults.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\centralities\api\Centralities.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\BfsResult.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\WeightFunction.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\PagerankResults.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\BellmanFordResult.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\Callback.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\DfsResult.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\GraphAlgorithms.java
+C:\Users\Jimmy\CyGraph-api\src\main\java\org\cytoscape\cyGraph\algorithms\api\DijkstraResult.java
